@@ -1,6 +1,6 @@
-# 👨🏽‍💻 ZAZA
+# ZAZA
 
-App desktop auto-hospedado para permitir que IA controle seu computador, usando a nova funcionalidade [computer use](https://www.anthropic.com/news/3-5-models-and-computer-use) do Claude. Deixe Claude executar tarefas no seu PC (ou tentar, rs). Feito em Python com PyQt.
+App desktop auto-hospedado para permitir que um LLM controle seu computador, usando a nova funcionalidade [computer use](https://www.anthropic.com/news/3-5-models-and-computer-use) do Claude. Deixe Claude executar tarefas no seu PC (ou tentar, rs) feito em Python com PyQt.
 
 ## ⚠️ Avisos Importantes
 
@@ -39,7 +39,7 @@ python run.py
 - `Ctrl + Q`: Fecha o app
 
 ## 💡 Dicas
-- Claude funciona melhor no Firefox. Instale para melhorar a precisão.
+- Claude funciona melhor no Firefox(pode ser usado qualquer outro tambem).
 - Seja claro e monitore as ações da IA.
 
 ## 🐛 Problemas Conhecidos
